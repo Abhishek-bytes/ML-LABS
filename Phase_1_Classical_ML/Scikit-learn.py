@@ -1,1 +1,0 @@
-#Implementing scikit-learn :machine learning in python . pedregosa, varoquaux, grisel, et al. 2011
